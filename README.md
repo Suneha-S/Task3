@@ -3,7 +3,7 @@ Interactive Tableau Dashboard – Business Financial Analysis
 This project delivers an interactive business intelligence dashboard using Tableau, built to assist stakeholders in exploring and analyzing financial and sales data with real-time interactivity and clean visuals.
 
 Dataset
-The analysis is based on a cleaned financial dataset Cleaned_Financials.csv, which includes details such as:
+The analysis is based on a financials and then this file is cleaned that is preprocessed and then saved as cleaned financial dataset Cleaned_Financials.csv, which includes details such as:
 - Order Date
 - Product Category
 - Country and Segment
@@ -34,7 +34,7 @@ Navigation Menu
 Files Included
 - `Task3.twb`: Interactive Tableau workbook
 - `Cleaned_Financials.csv`: Cleaned dataset used in Tableau
-- `Dashboard_Summary.pptx`: Executive summary presentation (to be added)
+- `Dashboard_Summary.pptx`: Executive summary presentation
 
 Tools Used
 - Tableau Desktop
